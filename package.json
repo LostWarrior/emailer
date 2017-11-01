@@ -1,0 +1,23 @@
+{
+  "name": "emailer",
+  "version": "1.0.0",
+  "description": "This emailer is an email module based on node-mailer which will help you send mails from your terminal using your gmail id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LostWarrior/emailer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LostWarrior/emailer/issues"
+  },
+  "homepage": "https://github.com/LostWarrior/emailer#readme",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
